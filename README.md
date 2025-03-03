@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm José Ignacio Martinez</h1>
-<h6 align="center">A Site Reliability Engineer (SRE) and Cloud Engineer specialized in Cloud platforms. Passionate about cloud architecture, automation, and monitoring solutions.</h6>
+<h4 align="center">A Site Reliability Engineer (SRE) and Cloud Engineer specialized in Cloud platforms. Passionate about cloud architecture, automation, and monitoring solutions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmartinez-rs&label=Profile%20views&color=0e75b6&style=flat" alt="jmartinez-rs" /> </p>
 
-## 🔭 I’m currently working on  
+
+#### 🔭 I’m currently working on  
  🔹 Cloud architecture and automation solutions for large-scale environments.  
  🔹 Infrastructure monitoring and observability improvements.  
 
-## 🌱 I’m currently learning  
+#### 🌱 I’m currently learning  
  🔹 Kubernetes and container orchestration.
  🔹 Automation with Terraform
  🔹 Advanced security and identity management in Microsoft cloud environments.  
 
-## 🛠️ Technologies & Tools  
+#### 🛠️ Technologies & Tools  
 💻 **Cloud**:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 🔒 **Security & Management**:
@@ -22,10 +23,9 @@
 🚀 **DevOps**:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
-## 📫 How to reach me  
+#### 📫 How to reach me  
 * 📧 jose.martinez.slb@gmail.com  
 * 🔗 [LinkedIn](https://linkedin.com/in/jose-ignacio-martinez) 
-* 👨‍💻 All of my projects are available at [Portfolio](#)
 * 👨‍💻 Learn more about who I am, my projects, and the services I offer at [Portfolio](#)
 * 📝 I regularly write articles on my blog [Blog](#)
 
