@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmartinez-rs&label=Profile%20views&color=0e75b6&style=flat" alt="jmartinez-rs" /> </p>
 
 
-#### 🔭 I’m currently working on  
- 🔹 Cloud architecture and automation solutions for large-scale environments.  
- 🔹 Infrastructure monitoring and observability improvements.  
+#### 🔭 I’m currently working on
+* Cloud architecture and automation solutions for large-scale environments.  
+* Infrastructure monitoring and observability improvements.  
 
-#### 🌱 I’m currently learning  
- 🔹 Kubernetes and container orchestration.
- 🔹 Automation with Terraform
- 🔹 Advanced security and identity management in Microsoft cloud environments.  
+#### 🌱 I’m currently learning
+* Kubernetes and container orchestration.
+* Automation with Terraform
+* Advanced security and identity management in Microsoft cloud environments. 
 
 #### 🛠️ Technologies & Tools  
 💻 **Cloud**:
