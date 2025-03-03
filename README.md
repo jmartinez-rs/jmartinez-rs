@@ -9,9 +9,9 @@
 * Infrastructure monitoring and observability improvements.  
 
 #### 🌱 I’m currently learning
-* Kubernetes and container orchestration.
-* Automation with Terraform
-* Advanced security and identity management in Microsoft cloud environments. 
+*  Kubernetes and container orchestration.
+*  Automation with Terraform
+*  Advanced security and identity management in Microsoft cloud environments.  
 
 #### 🛠️ Technologies & Tools  
 💻 **Cloud**:
@@ -31,4 +31,4 @@
 
 ---
 
-💡 *Passionate about cloud technologies, automation, and solving complex infrastructure challenges!* 🚀 
+💡 *Passionate about cloud technologies, automation, and solving complex infrastructure challenges!* 🚀  
